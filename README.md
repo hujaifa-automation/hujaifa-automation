@@ -22,11 +22,16 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=hujaifa-automation&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=46" height="185" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/hujaifa-automation/hujaifa-automation/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="124" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/hujaifa-automation/hujaifa-automation/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="134" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/hujaifa-automation/hujaifa-automation/activity-graph-output/activity-graph.svg?radius=0&hide_border=true&area=true&hide_title=false&theme=nightowl" height="200" alt="activity-graph graph"  />
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hujaifa-automation&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hujaifa-automation&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujaifa-automation&layout=compact&theme=radical"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hujaifa-automation&theme=github-dark"/>
+
 </div>
 
 ###
